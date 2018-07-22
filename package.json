@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "boiler plate react web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrodenbu/React.git"
+  },
+  "author": "Riley Rodenburg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrodenbu/React/issues"
+  },
+  "homepage": "https://github.com/rrodenbu/React#readme"
+}
