@@ -11,15 +11,30 @@ Clone
 
 ### Features
 
+* React - JS Library
+* Redux - State Container (Optional)
 * WebPack - Module Bundler (to handle criss-cross dependencies)
 * Babel - Compiler (to use next-gen JS)
 * NPM - Package Handler
 * STYLUS - CSS preprocessor (opposed to LESS or SASS)
 * JEST w/ Snapshot - JS Testing Framework
 
+## Steps
+
+* Install NPM
+`` npm init `` - Creates package.json
+`` sudo npm install -g create-react-app `` - React global
+`` create-react-app sample-website ``
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## FAQ
+
+* Library - collection of classes
+* Framework
 
 ## Acknowledgments
 
