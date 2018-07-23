@@ -23,8 +23,7 @@ Clone
 
 * Install NPM
 `` npm init `` - Creates package.json
-`` sudo npm install -g create-react-app `` - React global
-`` create-react-app sample-website ``
+`` npm i webpack webpack-cli --save-dev `` install webpack
 
 
 ## License
